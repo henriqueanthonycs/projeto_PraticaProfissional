@@ -79,5 +79,5 @@ As etapas de documentação técnica, modelagem UML (diagramas de caso de uso, c
 ## 🎓 6. Créditos e Instituição
 
 * **Instituição:** Instituto Federal de Goiás (IFG) — Câmpus Formosa
-* **Autor/Desenvolvedor:** Miguel Guilherme de Carvalho Alacoque
+* **Autores/Desenvolvedores:** Miguel Guilherme, Henrique Anthony,
 * **Projeto:** Portal de Serviços Locais
