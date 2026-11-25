@@ -1,8 +1,7 @@
 # 🛠️ Portal de Serviços Locais
 
-Seja bem-vindo ao repositório oficial do projeto **Portal de Serviços Locais**. Este documento apresenta uma visão geral do sistema, explicando a sua proposta, a arquitetura adotada, as regras de negócio e a organização do desenvolvimento.
-
-O projeto foi idealizado e desenvolvido no âmbito acadêmico do **Instituto Federal de Goiás (IFG) - Câmpus Formosa**, com o objetivo de construir uma solução tecnológica eficiente para conectar prestadores de serviços autônomos aos clientes da região.
+Seja bem-vindo ao repositório oficial do projeto **Portal de Serviços Locais**. 
+Este documento apresenta uma visão geral do sistema, explicando a sua proposta, a arquitetura adotada, as regras de negócio e a organização do desenvolvimento.
 
 ---
 
@@ -10,7 +9,8 @@ O projeto foi idealizado e desenvolvido no âmbito acadêmico do **Instituto Fed
 
 A proposta do **Portal de Serviços Locais** é funcionar como uma plataforma web/mobile interativa (marketplace) voltada para a contratação de serviços diversos. 
 
-Muitas vezes, profissionais autônomos (como encanadores, eletricistas, pintores, entre outros) encontram dificuldades para divulgar o seu trabalho, enquanto clientes têm dificuldades para encontrar profissionais qualificados e confiáveis perto de casa. A nossa plataforma resolve esse problema centralizando a busca, o agendamento, o pagamento e as avaliações num único ambiente digital simples e seguro.
+Muitas vezes, profissionais autônomos (como encanadores, eletricistas, pintores, entre outros) encontram dificuldades para divulgar o seu trabalho, enquanto clientes têm dificuldades para encontrar profissionais qualificados e confiáveis perto de casa. 
+A nossa plataforma resolve esse problema centralizando a busca, o agendamento, o pagamento e as avaliações num único ambiente digital simples e seguro.
 
 ---
 
